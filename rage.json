@@ -2,10 +2,19 @@
   {
     "name": [
       { "text": "Reez", "color": "red" },
-      { "text": "HvH", "color": "white" }
+      { "text": " HvH", "color": "white" }
     ],
     "description": "Free HvH cheat",
     "download": "https://drive.google.com/file/d/1n1wDSFX39KfAbaNUAKvSAMSbPJF-1KpK/view?usp=drivesdk",
     "tags": ["rage", "hvh", "free", "detected"]
+  }, 
+  {
+    "name": [
+      { "text": "Sensical", "color": "white" },
+      { "text": "", "color": "white" }
+    ], 
+    "description": "free HvH cheat", 
+    "download": "https://drive.google.com/file/d/1_9IhIg9e1hd_v-PZE0unPkJ-oEWYOKCC/view?usp=drivesdk", 
+    "tags": ["rage","hvh","free","undetected"]
   }
 ]
