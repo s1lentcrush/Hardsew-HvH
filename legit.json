@@ -1,11 +1,11 @@
 [
   {
     "name": [
-      { "text": "Ini", "color": "#00ffcc" },
-      { "text": "uria", "color": "white" }
+      { "text": "Luna", "color": "white" },
+      { "text": "", "color": "white" }
     ],
-    "description": "Legit cheat с плавным аимом и тонкими настройками",
-    "download": "#",
-    "tags": ["legit", "undetected"]
+    "description": "Free cheat, but vac detected.",
+    "download": "https://drive.google.com/file/d/1A_EaPFznXs1ndHuCfyeJKCYIcZRCst-q/view?usp=drivesdk",
+    "tags": ["legit", "detected", "free"]
   }
 ]
