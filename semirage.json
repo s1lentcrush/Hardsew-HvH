@@ -1,0 +1,29 @@
+[
+  {
+    "name": [
+      { "text": "Fatal", "color": "#ff3b3b" },
+      { "text": "ity", "color": "white" }
+    ],
+    "description": "Semi-rage чит с хорошим балансом между легитом и HvH",
+    "download": "#",
+    "tags": ["semirage", "balanced"]
+  },
+  {
+    "name": [
+      { "text": "Prim", "color": "#00bfff" },
+      { "text": "ordial", "color": "white" }
+    ],
+    "description": "Semi-rage с аккуратным аимом и визуалами",
+    "download": "#",
+    "tags": ["semirage", "visuals"]
+  },
+  {
+    "name": [
+      { "text": "Eter", "color": "#b266ff" },
+      { "text": "nal", "color": "white" }
+    ],
+    "description": "Универсальный semi-rage чит для CS2",
+    "download": "#",
+    "tags": ["semirage"]
+  }
+]

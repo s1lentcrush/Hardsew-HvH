@@ -1,0 +1,29 @@
+[
+  {
+    "name": [
+      { "text": "Skin", "color": "#ff69b4" },
+      { "text": "Changer", "color": "white" }
+    ],
+    "description": "Полный skinchanger с инвентарём и редкими скинами",
+    "download": "#",
+    "tags": ["skinchanger", "skins"]
+  },
+  {
+    "name": [
+      { "text": "Dream", "color": "#00ffff" },
+      { "text": "Skins", "color": "white" }
+    ],
+    "description": "Skinchanger с поддержкой ножей и перчаток",
+    "download": "#",
+    "tags": ["skinchanger", "knives"]
+  },
+  {
+    "name": [
+      { "text": "Visual", "color": "#c0c0c0" },
+      { "text": "Skin", "color": "#ffffff" }
+    ],
+    "description": "Лёгкий skinchanger без влияния на геймплей",
+    "download": "#",
+    "tags": ["skinchanger", "safe"]
+  }
+]

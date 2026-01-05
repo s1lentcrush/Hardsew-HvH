@@ -1,0 +1,29 @@
+[
+  {
+    "name": [
+      { "text": "Meme", "color": "red" },
+      { "text": "Sense", "color": "white" }
+    ],
+    "description": "Мощный HvH rage cheat с анти-аимом, резолвером и exploits",
+    "download": "#",
+    "tags": ["rage", "hvh", "paid"]
+  },
+  {
+    "name": [
+      { "text": "Never", "color": "blue" },
+      { "text": "Lose", "color": "white" }
+    ],
+    "description": "Премиум rage чит для CS2, стабильный и популярный",
+    "download": "#",
+    "tags": ["rage", "paid", "popular"]
+  },
+  {
+    "name": [
+      { "text": "Game", "color": "green" },
+      { "text": "Sense", "color": "white" }
+    ],
+    "description": "Продвинутый HvH чит с большим количеством настроек",
+    "download": "#",
+    "tags": ["rage", "hvh"]
+  }
+]

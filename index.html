@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HvH?</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<canvas id="snow"></canvas>
+
+<div class="app">
+
+<header>
+  <h1>HvH?</h1>
+  <button class="settings-btn" onclick="toggleSettings()">⚙</button>
+</header>
+
+<div id="menu" class="menu fade-in">
+  <button onclick="openCategory('rage')">Rage</button>
+  <button onclick="openCategory('semirage')">SemiRage</button>
+  <button onclick="openCategory('legit')">Legit</button>
+  <button onclick="openCategory('skinchanger')">SkinChanger</button>
+</div>
+
+<div id="page" class="hidden slide-in">
+  <div class="top-bar">
+    <button onclick="goBack()">←</button>
+    <input id="search" placeholder="Поиск..." oninput="filterCheats()">
+  </div>
+  <div id="tags" class="tags"></div>
+  <div id="cheats" class="grid"></div>
+</div>
+
+<div id="settings" class="settings hidden slide-up">
+  <h2>Настройки</h2>
+  <label><input type="checkbox" id="themeToggle"> Тёмная тема</label>
+  <label><input type="checkbox" id="snowToggle" checked> Снег</label>
+  <button onclick="toggleSettings()">Закрыть</button>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

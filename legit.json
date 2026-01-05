@@ -1,0 +1,29 @@
+[
+  {
+    "name": [
+      { "text": "Ini", "color": "#00ffcc" },
+      { "text": "uria", "color": "white" }
+    ],
+    "description": "Legit cheat с плавным аимом и тонкими настройками",
+    "download": "#",
+    "tags": ["legit", "undetected"]
+  },
+  {
+    "name": [
+      { "text": "Osir", "color": "#ffaa00" },
+      { "text": "is", "color": "white" }
+    ],
+    "description": "Бесплатный open-source legit чит",
+    "download": "#",
+    "tags": ["legit", "free", "opensource"]
+  },
+  {
+    "name": [
+      { "text": "Clear", "color": "#ffffff" },
+      { "text": "Aim", "color": "#00ff00" }
+    ],
+    "description": "Минималистичный legit чит без лишнего функционала",
+    "download": "#",
+    "tags": ["legit"]
+  }
+]
